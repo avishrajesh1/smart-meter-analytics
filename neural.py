@@ -1,6 +1,6 @@
 import pandas as pd
 #si=['da','date','val']
-#df = pd.read_excel(r"C:\Users\Avish Khosla\OneDrive\Desktop\smart grid sop\modified data.xlsx",columns=['da','date','val'])
+#df = pd.read_excel(r"modified data.xlsx",columns=['da','date','val'])
 import pandas as pd
 import numpy
 #import 
